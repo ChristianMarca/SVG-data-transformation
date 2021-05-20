@@ -1,0 +1,14 @@
+{
+  "name": "pocs",
+  "version": "1.0.0",
+  "description": "General code POCs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "svgo": "^2.3.0"
+  }
+}
