@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "btoa": "^1.2.1",
+    "node-fetch": "^2.6.1",
+    "svg64": "^1.1.0",
     "svgo": "^2.3.0"
   }
 }
